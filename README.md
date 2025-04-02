@@ -21,7 +21,7 @@ The AI improves over time:
 ✔️ Mid Training: Defends against attacks, better movement.
 ✔️ Advanced Training: Uses strategic dodging, survives longer.
 
-📌 Future Improvements
+## 📌 Future Improvements
 Implement Curriculum Learning for better progression.
 
 Reduce Catastrophic Forgetting to improve long-term learning.
