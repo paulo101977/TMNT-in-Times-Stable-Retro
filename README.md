@@ -16,9 +16,13 @@ Curriculum Learning: Progressive training strategies to improve AI performance.
 AI-Powered Video Upscaling: Improved visual clarity using neural network upscaling.
 
 ## 📈 Training Progress
+
 The AI improves over time:
+
 ✔️ Early Training: Random movements, no strategy.
+
 ✔️ Mid Training: Defends against attacks, better movement.
+
 ✔️ Advanced Training: Uses strategic dodging, survives longer.
 
 ## 📌 Future Improvements
